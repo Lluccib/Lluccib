@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Lluccib/Lluccib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Lluc Cid and i'm studying Game design & development at CITM - UPC
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
