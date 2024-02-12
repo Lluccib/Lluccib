@@ -1,14 +1,17 @@
-### Hi there 👋
+# Hi there👋. Welcome to my GitHub profile
 
 
-I'm Lluc Cid and i'm studying Game design & development at CITM - UPC
+I'm Lluc Cid and i'm studying Game Design & Development at CITM - (UPC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social
+
+## Projects
+
+- 🌱 Mynd's Abyss
+- 👯 Stelar
+- 🤔 Fantasy Time
+- 💬 Bugatti Pinball
+- 📫 Sorcer Stricker
+- 😄 Prenent Accio
+- ⚡ EchoJammer
+  
